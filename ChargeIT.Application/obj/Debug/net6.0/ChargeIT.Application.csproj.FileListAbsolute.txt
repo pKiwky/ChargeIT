@@ -1,0 +1,15 @@
+C:\Users\Picua\Desktop\Projects\ChargeIT\ChargeIT.Application\bin\Debug\net6.0\ChargeIT.Application.deps.json
+C:\Users\Picua\Desktop\Projects\ChargeIT\ChargeIT.Application\bin\Debug\net6.0\ChargeIT.Application.dll
+C:\Users\Picua\Desktop\Projects\ChargeIT\ChargeIT.Application\bin\Debug\net6.0\ChargeIT.Application.pdb
+C:\Users\Picua\Desktop\Projects\ChargeIT\ChargeIT.Application\bin\Debug\net6.0\ChargeIT.Domain.dll
+C:\Users\Picua\Desktop\Projects\ChargeIT\ChargeIT.Application\bin\Debug\net6.0\ChargeIT.Domain.pdb
+C:\Users\Picua\Desktop\Projects\ChargeIT\ChargeIT.Application\obj\Debug\net6.0\ChargeIT.Application.csproj.AssemblyReference.cache
+C:\Users\Picua\Desktop\Projects\ChargeIT\ChargeIT.Application\obj\Debug\net6.0\ChargeIT.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Picua\Desktop\Projects\ChargeIT\ChargeIT.Application\obj\Debug\net6.0\ChargeIT.Application.AssemblyInfoInputs.cache
+C:\Users\Picua\Desktop\Projects\ChargeIT\ChargeIT.Application\obj\Debug\net6.0\ChargeIT.Application.AssemblyInfo.cs
+C:\Users\Picua\Desktop\Projects\ChargeIT\ChargeIT.Application\obj\Debug\net6.0\ChargeIT.Application.csproj.CoreCompileInputs.cache
+C:\Users\Picua\Desktop\Projects\ChargeIT\ChargeIT.Application\obj\Debug\net6.0\ChargeIT.Application.csproj.CopyComplete
+C:\Users\Picua\Desktop\Projects\ChargeIT\ChargeIT.Application\obj\Debug\net6.0\ChargeIT.Application.dll
+C:\Users\Picua\Desktop\Projects\ChargeIT\ChargeIT.Application\obj\Debug\net6.0\refint\ChargeIT.Application.dll
+C:\Users\Picua\Desktop\Projects\ChargeIT\ChargeIT.Application\obj\Debug\net6.0\ChargeIT.Application.pdb
+C:\Users\Picua\Desktop\Projects\ChargeIT\ChargeIT.Application\obj\Debug\net6.0\ref\ChargeIT.Application.dll

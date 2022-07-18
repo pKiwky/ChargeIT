@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "u/CRnPs6V5GTvCHGdNpNiWLSq4KNMCt1WzIugInNTbc=",
+  "Source": "ChargeIT.WebAPI",
+  "BasePath": "_content/ChargeIT.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
